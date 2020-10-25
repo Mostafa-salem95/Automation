@@ -1,0 +1,2 @@
+[1025/192825.494:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1025/205930.250:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Mostafa\AppData\Local\Temp\scoped_dir3992_1788892766\Crashpad\attachments\67e51c3b-af0c-492f-9470-70b9b21bf957: The system cannot find the path specified. (0x3)
